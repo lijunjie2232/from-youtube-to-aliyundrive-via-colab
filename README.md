@@ -4,6 +4,6 @@ A colab script to download videos in playlist or video(s) and upload to aliyundr
 
 Optionally using threads.
 
-If once traffic too heavy, the net speed may limited by colab backend, so metimes slow but fast in general.
+If once traffic too heavy, the net speed may limited by colab backend, so sometimes slow but fast in general.
 
 Kaggle version may not public for on moral grounds.
